@@ -19,12 +19,20 @@ Welcome to my Github profile! Passionate about technology, my goal is always to 
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 
 ![Lucas's Github Status](https://github-readme-stats.vercel.app/api?username=lucastsan&show_icons=true&theme=vision-friendly-dark)
+
+<code><br></code>
+
 ![Lucas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastsan&layout=compact&theme=vision-friendly-dark)
 
 **Social Medias** 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santos-896525b9/)
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucastsantos1020@gmail.com)
+<code><a href="https://www.linkedin.com/in/lucas-santos-896525b9/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
+</a></code>
+<code><a href="mailto:lucastsantos1020@gmail.com" target="_blank">
+  <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
+</a></code>
+
 
 <!--
 **lucastsan/lucastsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
