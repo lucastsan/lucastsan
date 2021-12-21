@@ -19,7 +19,7 @@ Welcome to my Github profile! Passionate about technology, my goal is always to 
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 
 ![Lucas's Github Status](https://github-readme-stats.vercel.app/api?username=lucastsan&show_icons=true&theme=vision-friendly-dark)
-![Lucas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastsan&layout=compact&theme=vision-friendly-dark" alt="lucastsan's most languages)
+![Lucas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastsan&layout=compact&theme=vision-friendly-dark)
 
 **Social Medias** 
 
