@@ -5,7 +5,7 @@ Welcome to my Github profile! Passionate about technology, my goal is always to 
 
 **About Personal Stuffs:** 
 
-- 🌱 I’m currently learning about Flutter, HTML, CSS, Javascript and Node.js;
+- 🌱 I’m currently learning about mobile development with Kotlin and Flutter;
 - 🎯 My focus is mobile development;
 - 🔭 I’m currently working on personal projects.
 - 💬 I'm always open to connect with different people so if you want to message me, I'll be happy to meet you more!
@@ -13,7 +13,8 @@ Welcome to my Github profile! Passionate about technology, my goal is always to 
 
 **Languages and Tools:** 
 
-
+<code><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
